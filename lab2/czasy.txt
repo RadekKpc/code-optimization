@@ -1,0 +1,7 @@
+chol1:      Time: 1.299058e+01
+chol2:      Time: 6.391109e+00
+chol3:      Time: 6.236540e+00
+chol4:      Time: 2.984856e+00
+chol5:      Time: 3.109614e+00
+chol6:      Time: 1.681945e+00
+chol6 + O2: Time: 4.188250e-01
