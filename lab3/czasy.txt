@@ -1,0 +1,14 @@
+get1: 		   call GETime: 6.372271e+00 Check: -4.605781e+16
+get2: 		   call GETime: 4.472610e+00 Check: -4.605781e+16
+get3: 		   call GETime: 2.919045e+00 Check: -4.605781e+16
+get4: 		   call GETime: 2.992366e+00 Check: -4.605781e+16
+get5: 		   call GETime: 2.806487e+00 Check: -4.605781e+16
+get6: 		   call GETime: 2.891389e+00 Check: -4.605781e+16
+get7: 		   call GETime: 1.730913e+00 Check: -4.605781e+16
+
+O2:
+get7 march=native: call GETime: 6.878490e-01
+get7 mfma:         call GETime: 8.641290e-01
+
+get1 march=native: call GETime: 1.462256e+00
+get1 mfma:         call GETime: 1.474173e+00
